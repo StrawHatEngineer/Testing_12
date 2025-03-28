@@ -18,5 +18,5 @@
     "updateMode": "UPDATE_WHEN_EXPIRED",
     "updatedAtMs": "1739256371000",
     "version": "1.0.1",
-    "visibility": "PUBLIC"
+    "visibility": "PRIVATE"
 }
