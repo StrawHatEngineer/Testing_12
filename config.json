@@ -12,7 +12,7 @@
         "workspace": "CICD"
     },
     "settings": {
-        "rebuild": false
+        "rebuild": true
     },
     "regression": {},
     "release_notes": "v1.0.1"
