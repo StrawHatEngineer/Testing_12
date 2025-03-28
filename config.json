@@ -9,7 +9,7 @@
     },
     "target": {
         "org": "aihub-uat-internal",
-        "workspace": "varun.nandan_instabase.com"
+        "workspace": "CICD"
     },
     "settings": {
         "rebuild": false
