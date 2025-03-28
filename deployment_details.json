@@ -1,0 +1,36 @@
+{
+    "app_name": "Passport",
+    "app_version": "1.0.1",
+    "created_at_ms": 1742381377000,
+    "deployed_solution_id": "9b12c4a7-89f1-460c-ae93-b6eec9339cfc",
+    "description": "Sample deployment for Passport App",
+    "human_review_level": "run_based",
+    "human_review_mode": "ON",
+    "id": "0195ae05-e512-7089-b082-7d9b89ab765a",
+    "last_run_job_id": "ff1f999f-11bc-4dd0-af17-b30c695eb1ff",
+    "last_run_status": "COMPLETE",
+    "last_run_timestamp_ns": 1742563024567257794,
+    "metric_alerts": null,
+    "name": "Passport Deployment",
+    "notification_emails": [
+        {
+            "emails": [
+                "varun.nandan@instabase.com"
+            ],
+            "events": [
+                "run.started",
+                "run.requires_review",
+                "run.complete",
+                "run.failed"
+            ],
+            "name": "Webhook"
+        }
+    ],
+    "owner": "varun_nandan",
+    "retention_settings": {},
+    "review_within_sec": null,
+    "state": "ACTIVE",
+    "updated_at_ms": 1742381377000,
+    "webhooks": null,
+    "workspace": "varun_nandan"
+}
